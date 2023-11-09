@@ -1215,11 +1215,19 @@ ol {
 	.home-two-style .social-section .social-link-warp:after {
 		display: none;
 	}
+
+	img {
+		border-radius: 5%;
+	}
 }
 
 @media only screen and (max-width: 1600px) {
 	.hero-text h2 {
 		font-size: 120px;
+	}
+
+	img {
+		border-radius: 5%;
 	}
 }
 
@@ -1232,6 +1240,10 @@ ol {
 	.home-six-style .header-section {
 		position: relative;
 		background: #009fff;
+	}
+
+	img {
+		border-radius: 5%;
 	}
 }
 
@@ -1266,6 +1278,10 @@ ol {
 	.home-three-style .main-right-area {
 		padding-left: 100px;
 	}
+
+	img {
+		border-radius: 5%;
+	}
 }
 
 /* Medium screen : 992px. */
@@ -1297,6 +1313,10 @@ ol {
 
 	.portfolio-item {
 		margin-bottom: 30px;
+	}
+
+	img {
+		border-radius: 5%;
 	}
 }
 
@@ -1361,6 +1381,10 @@ ol {
 
 	.hero-info ul li span {
 		display: block;
+	}
+
+	img {
+		border-radius: 5%;
 	}
 }
 
@@ -1448,6 +1472,10 @@ ol {
 	.info-section .hero-info ul li span {
 		color: #9c9b9b;
 	}
+
+	img {
+		border-radius: 5%;
+	}
 }
 
 /* small Mobile :320px. */
@@ -1488,5 +1516,9 @@ ol {
 
 	.home-four-style .main-left-area {
 		padding-top: 250px;
+	}
+
+	img {
+		border-radius: 5%;
 	}
 }
